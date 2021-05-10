@@ -14,7 +14,7 @@ I'm from INDIA, i am a Post Graduate Engineer in Electronics and Communication f
 
 ### Hi there, I'm HARSHA SJ 👋
 
-[![Website](https://sites.google.com/view/harshasj/home?authuser=0)](https://sites.google.com/view/harshasj/home?authuser=0)
+WEBSITE: (https://sites.google.com/view/harshasj/home?authuser=0)](https://sites.google.com/view/harshasj/home?authuser=0)
 
 ## I'm a Electronics and Communication Engineer!!
 
@@ -37,9 +37,6 @@ I'm from INDIA, i am a Post Graduate Engineer in Electronics and Communication f
 
 <br />
 <br />
-
----
-
 ---
 
 ### 📕 Latest Blog Posts
@@ -53,14 +50,6 @@ I'm from INDIA, i am a Post Graduate Engineer in Electronics and Communication f
 ➡️ [more blog posts...](https://talentedstudentcommunity.blogspot.com/)
 
 ---
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
-
 [website]: https://sites.google.com/view/harshasj/home?authuser=0
 [instagram]: https://www.instagram.com/harshasj_/
 [linkedin]: https://www.linkedin.com/in/harshasj/

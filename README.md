@@ -1,5 +1,4 @@
 
-![Electronics and Communication Engineer]
 # Hi there 👋, I'm Harsha S J
 
 ## 🎓 Electronics and Communication Engineer

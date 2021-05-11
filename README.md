@@ -19,10 +19,9 @@ I'm from INDIA, i am a Post Graduate Engineer in Electronics and Communication f
 - 🌄 ARDUINO 
 - 📀 LINUX
 
-## Mini Project
+## Personal Portfolio link
 
-[WEBSITE](https://sites.google.com/view/harshasj/home?authuser=0)
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sites.google.com/view/harshasj/home?authuser=0)  
 
 ## Connect with me:
 
@@ -33,6 +32,7 @@ I'm from INDIA, i am a Post Graduate Engineer in Electronics and Communication f
 <br />
 
 ## Languages and Tools:
+
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />

@@ -46,14 +46,16 @@ I'm from INDIA, i am a Post Graduate Engineer in Electronics and Communication f
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-<img align="left" alt="CREATE PRESENTATIONS FOR COLLEGES | THE BEST AND THE EASIEST PLAN TILL NOW | EASIEST STEP" width="256" src="https://1.bp.blogspot.com/-v7ha2uS23zk/YGvVuG_jaMI/AAAAAAAAaKQ/vcQyRAuoD0U-hozV42XHzvkNEJlQ4AYCgCLcBGAsYHQ/s320/PPT%2B%2BPresentation.jpg" />
+[<img align="left" alt="CREATE PRESENTATIONS FOR COLLEGES | THE BEST AND THE EASIEST PLAN TILL NOW | EASIEST STEP" width="256" src="https://1.bp.blogspot.com/-v7ha2uS23zk/YGvVuG_jaMI/AAAAAAAAaKQ/vcQyRAuoD0U-hozV42XHzvkNEJlQ4AYCgCLcBGAsYHQ/s320/PPT%2B%2BPresentation.jpg" />][blogpost1]
 
-<img align="left" alt="HOW TO INSTALL LINUX | WSL | WINDOWS FEATURE | ONLY 5 STEPS TO INSTALL LINUX" width="256" src="https://1.bp.blogspot.com/-oHnkVEC1EWY/YGvTztzMPbI/AAAAAAAAaKI/b9wObFmYD10TjVQvDouctueASWEDZeTIgCLcBGAsYHQ/s320/Linux%2Bfor%2BWindows.jpg" />
+[<img align="left" alt="HOW TO INSTALL LINUX | WSL | WINDOWS FEATURE | ONLY 5 STEPS TO INSTALL LINUX" width="256" src="https://1.bp.blogspot.com/-oHnkVEC1EWY/YGvTztzMPbI/AAAAAAAAaKI/b9wObFmYD10TjVQvDouctueASWEDZeTIgCLcBGAsYHQ/s320/Linux%2Bfor%2BWindows.jpg" />][blogpost2]
 <!-- BLOG-POST-LIST:END -->
 
 <br />
 <br />
-[More blog posts](https://talentedstudentcommunity.blogspot.com/)
+
+[More Blog Posts]
+
 <br />
 <br />
 <br />
@@ -67,6 +69,6 @@ I'm from INDIA, i am a Post Graduate Engineer in Electronics and Communication f
 [instagram]: https://www.instagram.com/harshasj_/
 [linkedin]: https://www.linkedin.com/in/harshasj/
 [facebook]: https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fnagharsha.sj&sa=D
-[More blog posts]: https://talentedstudentcommunity.blogspot.com/
+[More Blog Posts]: https://talentedstudentcommunity.blogspot.com/
 [blogpost1]: https://talentedstudentcommunity.blogspot.com/2020/12/how-to-create-presentations-for-colleges.html
 [blogpost2]: https://talentedstudentcommunity.blogspot.com/2021/04/how-to-install-linux-wsl-windows.html

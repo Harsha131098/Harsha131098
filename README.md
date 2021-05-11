@@ -44,12 +44,15 @@ I'm from INDIA, i am a Post Graduate Engineer in Electronics and Communication f
 <!-- BLOG-POST-LIST:START -->
 - [CREATE PRESENTATIONS FOR COLLEGES | THE BEST AND THE EASIEST PLAN TILL NOW | EASIEST STEP](https://talentedstudentcommunity.blogspot.com/2020/12/how-to-create-presentations-for-colleges.html#more)
 - [HOW TO INSTALL LINUX | WSL | WINDOWS FEATURE | ONLY 5 STEPS TO INSTALL LINUX](https://talentedstudentcommunity.blogspot.com/2021/04/how-to-install-linux-wsl-windows.html)
-
 <!-- BLOG-POST-LIST:END -->
+
+➡️ [More blog posts...](https://talentedstudentcommunity.blogspot.com/)
 
 <br />
 
-➡️ [more blog posts...](https://talentedstudentcommunity.blogspot.com/)
+## Github Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harsha131098)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 [website]: https://sites.google.com/view/harshasj/home?authuser=0

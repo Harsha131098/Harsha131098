@@ -1,3 +1,4 @@
+![Banner](https://github.com/Harsha131098/Harsha131098/blob/main/Harsha%20SJ%20Github%20Banner.jpg)
 
 # Hi there 👋, I'm Harsha S J
 

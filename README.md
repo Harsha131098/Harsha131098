@@ -37,7 +37,7 @@ I'm from INDIA, i am a Under Graduate Engineer in Electronics and Communication 
 <img align="left" alt="C" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
 <img align="left" alt="Linux" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 <img align="left" alt="Terminal" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Matlab" width="25" src="[https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg](https://en.wikipedia.org/wiki/File:Matlab_Logo.png)" />
+<img align="left" alt="Matlab" width="25" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" />
 <img align="left" alt="Arduino" width="25" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" />
 <img align="left" alt="GitHub" width="25" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="git" width="25" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />

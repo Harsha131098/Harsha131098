@@ -4,10 +4,11 @@
 
 ## 🎓 Electronics and Communication Engineer
 
-I'm from INDIA, i am a Under Graduate Engineer in Electronics and Communication from Bangalore Institute Of Technology (VTU). I really enjoy learning languages and experimenting with free sources with a approach to find solution and concepts to real time problem.
+I'm from INDIA, i am a Under Graduate Engineer in Electronics and Communication from Bangalore Institute Of Technology (VTU). I really enjoy learning programming languages and experimenting with free sources with a approach to find solution and concepts to real time problem.
 
 - 🌱 I’m currently participating on a Embedded course
 - 🌱 I’m currently learning C++ 
+- 🌱 I’m currently learning Python
 - 🔭 I’m currently working on Linux Mini Projects 
 - 🥅 2021 Goals: Contribute more to Open Source projects and Experiment on Free Software / Application
 - ⚡ Hobby: I love to draw and make short movies
